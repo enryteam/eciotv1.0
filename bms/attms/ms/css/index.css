@@ -1,0 +1,132 @@
+html {
+	height: 100%;
+}
+body {
+	background: url(../img/bg.jpg) no-repeat;
+	background-size: cover;
+	height: 100%;
+}
+.main {
+	position: relative;
+	height: 100%;
+}
+.slogan {
+	vertical-align: super;
+}
+.aside {
+	float: left;
+	width: 500px;
+	height: 487px;
+	margin-top: 120px;
+}
+.aside img {
+	width: 100%;
+	height: auto;
+}
+.mc {
+	padding-top: 45px;
+}
+.fc {
+	width: 302px;
+	margin: 60px 30px 0;
+}
+.form {
+	width: 362px;
+	height: 496px;
+	float: right;
+	margin-top: 30px;
+	background: #fff;
+	border-radius: 3px;
+}
+.account {
+	width: 302px;
+	margin-top: 50px;
+}
+.account>div {
+	position: relative;
+	margin-bottom: 30px;
+	overflow: hidden;
+	border: 2px solid #eceef2;
+	border-radius: 5px;
+	width: 302px;
+}
+.account input {
+	width: 200px!important;
+	display: inline-block;
+	float: left;
+	color: #333;
+	font-size: 14px;
+	overflow: hidden;
+	height: 48px;
+	line-height: 48px;
+}
+input::-webkit-input-placeholder { /* WebKit browsers 适配谷歌 */
+    color: #c0c4cc;
+}
+input:-moz-placeholder { /* Mozilla Firefox 4 to 18 适配火狐 */
+    color: #c0c4cc;
+}
+input::-moz-placeholder { /* Mozilla Firefox 19+ 适配火狐 */
+    color: #c0c4cc;
+}
+input:-ms-input-placeholder { /* Internet Explorer 10+  适配ie*/
+    color: #c0c4cc;
+}
+.account input:focus {
+	border-color: #9babe6;
+}
+.account i {
+	float: left;
+	display: inline-block;
+	width: 48px;
+	height: 48px;
+	background-position: center center;
+	background-repeat: no-repeat;
+	cursor: pointer;
+}
+.username i {
+	background-image: url(../img/user-icon.png);
+	background-size: 20px 22px;
+}
+.password i {
+	background-image: url(../img/pass-icon.png);
+	background-size: 19px 22px;
+}
+.password input {
+	width: 201px;
+}
+.password span {
+	display: inline-block;
+	float: right;
+	width: 48px;
+	height: 48px;
+	background-position: center center;
+	background-repeat: no-repeat;
+	background-image: url(../img/eye-icon.png);
+	background-size: 25px 16px;
+	cursor: pointer;
+}
+.loginbtn {
+	width: 302px;
+	height: 44px;
+	background: #3860f4;
+	border-radius: 5px;
+	color: #fff;
+	font-size: 18px;
+	line-height: 44px;
+	text-align: center;
+	cursor: pointer;
+	margin-top: 15px;
+}
+.afoot {
+	position: absolute;
+	bottom: 32px;
+	width: 100%;
+	color: #fff;
+	font-size: 14px;
+	line-height: 2;
+	text-align: center;
+	float: left;
+	right: 0;
+	left: 0;
+}

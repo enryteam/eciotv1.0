@@ -1,0 +1,22 @@
+{
+	"name": "wowotuan/HessianPHP",
+	"version": "1.0",
+	"description": "Hessian的PHP客户端",
+	"type": "wowotuan-extension",
+	"keywords": ["hessian"],
+	"author": [
+		{
+			"name": "qixiaopeng",
+			"email": "qixiaopeng@55tuan.com"
+		}
+	],
+	"support": {
+		"source": "http://10.9.210.155/php/hessianphp"
+	},
+	"require": {
+		"php": ">=5.3.0"
+	},
+    "autoload": {
+        "classmap": ["./", "Hessian1/", "Hessian2/"]
+    }
+}

@@ -1,0 +1,102 @@
+[
+    {
+        "id": "0",
+        "name": "Campus",
+        "text": "Campus (Campus)",
+        "children": [
+            {
+                "id": "6555",
+                "name": "flag",
+                "text": "Thing (flag)",
+                "children": []
+            },
+            {
+                "id": "1606",
+                "name": "car02",
+                "text": "Thing (car02)",
+                "children": []
+            },
+            {
+                "id": "107",
+                "name": "107",
+                "text": "Building (107)",
+                "children": [
+                    {
+                        "id": "108",
+                        "name": "108",
+                        "text": "Floor (108)",
+                        "children": [
+                            {
+                                "id": "6243",
+                                "name": "cabinetB0",
+                                "text": "Thing (cabinetB0)",
+                                "children": []
+                            },
+                            {
+                                "id": "6244",
+                                "name": "cabinetB1",
+                                "text": "Thing (cabinetB1)",
+                                "children": []
+                            },
+                            {
+                                "id": "6246",
+                                "name": "cabinetB3",
+                                "text": "Thing (cabinetB3)",
+                                "children": []
+                            },
+                            {
+                                "id": "6252",
+                                "name": "cabinetB4",
+                                "text": "Thing (cabinetB4)",
+                                "children": []
+                            },
+                            {
+                                "id": "6245",
+                                "name": "cabinetB2",
+                                "text": "Thing (cabinetB2)",
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "id": "353",
+                        "name": "353",
+                        "text": "Floor (353)",
+                        "children": []
+                    },
+                    {
+                        "id": "516",
+                        "name": "516",
+                        "text": "Floor (516)",
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "id": "6923",
+                "name": "6923",
+                "text": "Building (6923)",
+                "children": [
+                    {
+                        "id": "6924",
+                        "name": "6924",
+                        "text": "Floor (6924)",
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "id": "1605",
+                "name": "car01",
+                "text": "Thing (car01)",
+                "children": []
+            },
+            {
+                "id": "2271",
+                "name": "car03",
+                "text": "Thing (car03)",
+                "children": []
+            }
+        ]
+    }
+]
