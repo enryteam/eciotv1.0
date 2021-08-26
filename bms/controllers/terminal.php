@@ -2,7 +2,6 @@
 
 defined('IN_PHPFRAME') or exit('No permission resources.');
 pc_base::load_app_class('BmsAction');
-
 class terminal extends BmsAction {
 
   private $model = null;

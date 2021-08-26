@@ -11,7 +11,7 @@
     <style>
       .laytable-cell-4-0-0{ width: 48px; }.laytable-cell-4-0-1{ width: 80px; }.laytable-cell-4-0-2{  }.laytable-cell-4-0-3{  }.laytable-cell-4-0-4{  }.laytable-cell-4-0-5{ width: 150px; }
       .aaaa{
-        position:absolute;
+        position:absolute; 
         left:15%;
         top:0px;
         font-size:15px;

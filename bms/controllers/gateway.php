@@ -1,7 +1,6 @@
 <?php
 defined('IN_PHPFRAME') or exit('No permission resources.');
-pc_base::load_app_class('BmsAction');
-
+pc_base::load_app_class('BmsAction'); 
 //网关
 class gateway extends BmsAction {
   private $model = null;

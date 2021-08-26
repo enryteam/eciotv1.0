@@ -101,5 +101,5 @@ class system extends BmsAction {
     } else {
       bmsAlert('参数错误', pfUrl('', 'system', 'admin_index'));
     }
-  }
+  } 
 }

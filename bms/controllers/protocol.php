@@ -115,5 +115,4 @@ class protocol extends BmsAction {
             bmsAlert('参数错误', pfUrl(null,'protocol','index'));
         }
     }
-
 }

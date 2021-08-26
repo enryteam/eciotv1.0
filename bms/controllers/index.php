@@ -98,6 +98,6 @@ class index extends BmsAction {
     unset($_SESSION['real_name']);
     unset($_SESSION['gid']);
     bmsAlert("退出成功", pfUrl("bms", "index", "login"));
-  }
+  } 
 
 }

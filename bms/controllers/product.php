@@ -4,7 +4,6 @@ pc_base::load_app_class('BmsAction');
 
 //产品管理
 class product extends BmsAction {
-
   private $model = null;
 
   public function __construct() {
